@@ -7,3 +7,10 @@ uv ik pkg manger ha uv ik fast python pkg manger ha jo python ki libarires ko in
 pip updated veraion ha
 
 uv --version
+
+virtual enviroment
+
+apna project ko initiazed karna ha uv ka sat
+
+new folder commad
+uv init .
