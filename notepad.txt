@@ -14,3 +14,14 @@ apna project ko initiazed karna ha uv ka sat
 
 new folder commad
 uv init .
+uv venv
+.venv\Scripts\activate
+
+project.tomal     pkg.json depndeces isma ati ha
+
+
+
+new folder commad
+uv init .
+uv venv
+.venv\Scripts\activate
