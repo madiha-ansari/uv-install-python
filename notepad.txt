@@ -1,0 +1,9 @@
+uv 
+google seach uv instll
+window copy commad
+
+
+uv ik pkg manger ha uv ik fast python pkg manger ha jo python ki libarires ko install karta ha pip replacement ha 
+pip updated veraion ha
+
+uv --version
